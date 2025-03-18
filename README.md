@@ -16,7 +16,7 @@
 - Использование `StatefulWidget` для главного экрана и `StatelessWidget` для кнопок.
 
 **Ссылка для скачивания APK:**  
-[Скачать APK](build/app/outputs/flutter-apk/app-release.apk) 
+[Скачать APK](app-release.apk) 
 
 **Скриншоты интерфейса приложения:**  
 ![Главный экран](assets/screenshot_main.png)  
